@@ -6,7 +6,7 @@ Projet Laravel avec un service de calcul de commandes et des tests unitaires et 
 ---
 
 <p align="center">
-  <img src="assets/images/logo.png" width="150" alt="Logo du projet">
+  <img src="Test_laravel.png"  alt="Logo du projet">
 </p>
 
 ## 🚀 Installation Rapide
